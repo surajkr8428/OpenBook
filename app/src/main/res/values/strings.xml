@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">OpenBooks</string>
+    <string name="app_name_short">OpenBooks</string>
+    
+    <!-- Library -->
+    <string name="library_title">Library</string>
+    <string name="collections_title">Collections</string>
+    <string name="search_title">Search</string>
+    <string name="no_books">No books found</string>
+    <string name="add_books_prompt">Add books to get started</string>
+    <string name="sort_by">Sort by</string>
+    <string name="filter_by">Filter by</string>
+    <string name="sort_title">Title</string>
+    <string name="sort_author">Author</string>
+    <string name="sort_recent">Recent</string>
+    <string name="sort_progress">Progress</string>
+    <string name="filter_all">All</string>
+    <string name="filter_epub">EPUB</string>
+    <string name="filter_pdf">PDF</string>
+    <string name="filter_comics">Comics</string>
+    
+    <!-- Reader -->
+    <string name="reader_settings">Reading Settings</string>
+    <string name="font_size">Font Size</string>
+    <string name="font_family">Font Family</string>
+    <string name="line_height">Line Height</string>
+    <string name="margins">Margins</string>
+    <string name="theme">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_sepia">Sepia</string>
+    <string name="theme_system">System</string>
+    <string name="theme_custom">Custom</string>
+    <string name="page_turn_animation">Page Turn Animation</string>
+    <string name="animation_none">None</string>
+    <string name="animation_slide">Slide</string>
+    <string name="animation_curl">Curl</string>
+    <string name="animation_fade">Fade</string>
+    <string name="keep_screen_on">Keep Screen On</string>
+    <string name="hyphenation">Hyphenation</string>
+    <string name="justification">Text Alignment</string>
+    <string name="alignment_left">Left</string>
+    <string name="alignment_center">Center</string>
+    <string name="alignment_right">Right</string>
+    <string name="alignment_justified">Justified</string>
+    <string name="table_of_contents">Table of Contents</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="notes">Notes</string>
+    <string name="add_bookmark">Add Bookmark</string>
+    <string name="add_note">Add Note</string>
+    <string name="text_to_speech">Text-to-Speech</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="speech_rate">Speech Rate</string>
+    <string name="pitch">Pitch</string>
+    <string name="volume">Volume</string>
+    <string name="voice">Voice</string>
+    <string name="auto_scroll">Auto-scroll</string>
+    <string name="highlight_text">Highlight Text</string>
+    <string name="skip_footnotes">Skip Footnotes</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="reading_settings">Reading</string>
+    <string name="tts_settings">Text-to-Speech</string>
+    <string name="sync_settings">Cloud Sync</string>
+    <string name="storage_settings">Storage</string>
+    <string name="about_settings">About</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="manage_downloads">Manage Downloads</string>
+    <string name="version">Version</string>
+    <string name="licenses">Open Source Licenses</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="sync_enabled">Enable Sync</string>
+    <string name="sync_on_wifi">Sync on Wi-Fi Only</string>
+    <string name="sync_interval">Sync Interval</string>
+    <string name="sync_positions">Sync Reading Positions</string>
+    <string name="sync_bookmarks">Sync Bookmarks & Notes</string>
+    <string name="conflict_resolution">Conflict Resolution</string>
+    <string name="conflict_last_write">Last Write Wins</string>
+    <string name="conflict_local">Local Wins</string>
+    <string name="conflict_remote">Remote Wins</string>
+    <string name="conflict_manual">Manual</string>
+    
+    <!-- Store -->
+    <string name="store_title">Book Store</string>
+    <string name="featured_books">Featured Free Books</string>
+    <string name="categories">Categories</string>
+    <string name="free">FREE</string>
+    <string name="download">Download</string>
+    <string name="read_sample">Read Sample</string>
+    
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="search">Search</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="done">Done</string>
+</resources>
